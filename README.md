@@ -1,7 +1,7 @@
 Frontend book catalog app using REST services.
 
 _____
-Used technologies and tools:</br>
+Used technologies and tools:</br></br>
  • layout: HTML</br>
  • styling: CSS/Bootstrap</br>
  • scripting: JavaScript<br>
